@@ -1,0 +1,38 @@
+project_id = "qbnzxbxhdmykyzxkxrzv"
+
+[functions.ai-nook]
+verify_jwt = false
+
+[functions.send-welcome-email]
+verify_jwt = false
+
+[functions.send-starting-soon-reminders]
+verify_jwt = false
+
+[functions.auto-cancel-unconfirmed-nooks]
+verify_jwt = false
+
+[functions.verify-attendance]
+verify_jwt = false
+
+[functions.notify-cancellation]
+verify_jwt = false
+
+[functions.admin-actions]
+verify_jwt = false
+
+[functions.admin-discovery]
+verify_jwt = false
+
+[functions.generate-qr-secret]
+verify_jwt = false
+
+[functions.mark-attendance]
+verify_jwt = false
+
+[functions.auto-mark-noshow]
+verify_jwt = false
+
+[functions.send-magic-link]
+verify_jwt = false
+
