@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "yaar.nook",
+      "sha256_cert_fingerprints": [
+        "CE:C0:73:AE:78:9E:64:D1:13:E1:71:8E:00:38:F7:36:80:57:3F:1D:6B:30:0B:E3:97:A4:8A:FF:73:14:55:B5"
+      ]
+    }
+  }
+]
